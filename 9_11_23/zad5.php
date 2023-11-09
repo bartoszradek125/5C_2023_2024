@@ -16,7 +16,7 @@
     $result = null;
     $interations = 0;
     while (($end - $start) > $precision) {
-        $midpoint = ($start + $end) /2;
+        $midpoint = ($start + $end) / 2;
         $fMidpoint = $function($midpoint);
 
         if ($fMidpoint == 0.0) {
