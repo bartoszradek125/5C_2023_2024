@@ -10,5 +10,6 @@
     for ($i = 100; $i >=91; $i--) {
         echo "Liczba: $i";
     }
+    ?>
 </body>
 </html>
