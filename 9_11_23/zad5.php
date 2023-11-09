@@ -9,7 +9,7 @@
     <?php
     $function = function($x) {
         return $x * $x;
-    }
+    };
     $start = 0;
     $end = 10;
     $precision = 0.001;
