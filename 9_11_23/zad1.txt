@@ -1,1 +1,1 @@
-Pozwalają one wykonywać określoną czynność wielektornie na przykład gdy musimy wyświetlić 50 razy to samo.
+Pozwalaja one wykonywac okreslona czynnosc wielektornie na przyklad gdy musimy wyswietlic 50 razy to samo.
