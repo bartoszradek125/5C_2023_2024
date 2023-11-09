@@ -8,7 +8,7 @@
 <body>
     <?php
     for ($i = 100; $i <=120; $i += 5) {
-        echo "Liczba podzielna przez 5: $i";
+        echo "Liczba podzielna przez 5: $i <br>";
     }
     ?>
 </body>
