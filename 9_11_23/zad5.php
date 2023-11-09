@@ -14,7 +14,7 @@
     $end = 10;
     $precision = 0.001;
     $result = null;
-    $interations = 0;
+    $iterations = 0;
     while (($end - $start) > $precision) {
         $midpoint = ($start + $end) / 2;
         $fMidpoint = $function($midpoint);
@@ -27,7 +27,7 @@
         } else {
             $start = $midpoint;
         }
-        $interations++;
+        $iterations++;
     }
     echo "Wynik: $result, Iteracje: $iterations";
     ?>
