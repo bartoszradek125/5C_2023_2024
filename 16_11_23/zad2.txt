@@ -1,0 +1,17 @@
+Zalety  baz danych.
+Do kluczowych zalet  baz danych należą:
+
+Kategoryzowanie danych. Administratorzy baz danych mogą łatwo kategoryzować i przechowywać dane w relacyjnej bazie danych, które następnie mogą być odpytywane i filtrowane w celu wydobycia informacji do raportów. Relacyjne bazy danych są również łatwe do rozszerzenia i nie są zależne od fizycznej organizacji. Po pierwotnym utworzeniu bazy danych można dodać nową kategorię danych bez konieczności modyfikowania istniejących aplikacji.
+Dokładność. Dane są przechowywane tylko raz, co eliminuje deduplikację danych w procedurach przechowywania.
+Łatwość użytkowania. Złożone zapytania są łatwe do wykonania przez użytkowników za pomocą SQL, głównego języka zapytań stosowanego w relacyjnych bazach danych.
+Współpraca. Wielu użytkowników może mieć dostęp do tej samej bazy danych.
+Bezpieczeństwo. Bezpośredni dostęp do danych w tabelach w systemie RDBMS może być ograniczony do określonych użytkowników.
+
+
+Wady  baz danych.
+Wady baz danych obejmują następujące elementy:
+
+Struktura. Relacyjne bazy danych wymagają dużo struktury i pewnego poziomu planowania, ponieważ kolumny muszą być zdefiniowane, a dane muszą poprawnie pasować do nieco sztywnych kategorii. Struktura jest dobra w niektórych sytuacjach, ale stwarza problemy związane z innymi wadami, takimi jak konserwacja oraz brak elastyczności i skalowalności.
+Problemy z utrzymaniem. Programiści i inni pracownicy odpowiedzialni za bazę danych muszą poświęcić czas na zarządzanie i optymalizację bazy danych w miarę dodawania do niej danych.
+Nieelastyczność. Relacyjne bazy danych nie są idealne do obsługi dużych ilości nieustrukturyzowanych danych. Dane, które są w dużej mierze jakościowe, niełatwe do zdefiniowania lub dynamiczne nie są optymalne dla relacyjnych baz danych, ponieważ w miarę jak dane się zmieniają lub ewoluują, schemat musi ewoluować wraz z nimi, co wymaga czasu.
+Brak skalowalności. Relacyjne bazy danych nie skalują się dobrze horyzontalnie w ramach fizycznych struktur pamięci masowej z wieloma serwerami. Obsługa relacyjnych baz danych na wielu serwerach jest trudna, ponieważ w miarę jak zbiór danych staje się coraz większy i bardziej rozproszony, struktura ulega zaburzeniu, a użycie wielu serwerów ma wpływ na wydajność – taką jak czas reakcji aplikacji – i dostępność.
