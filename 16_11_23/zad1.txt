@@ -1,0 +1,5 @@
+1. MySQL https://www.mysql.com/ Najnowsza wersja 8.2.0 Licencja komercyjna:Tak
+2. MS MySQL https://azure.microsoft.com/pl-pl/products/mysql Najnowsza wersja 16.00 Licencja komercyjna: Tak
+3. SQL Lite https://www.sqlite.org/index.html Najnowsza wersja 3.44.0 Licencja komercyjna: Nie
+4. PostgreSQL https://www.postgresql.org.pl/ Najnowsza wersja 11.22 Licencja komercyjna: Nie
+5. MariaDB https://mariadb.org/ Najnowsza wersja 11.3.0 Licencja komercyjna: Nie
